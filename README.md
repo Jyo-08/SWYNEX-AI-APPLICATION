@@ -7,7 +7,7 @@
 [![Tests](https://img.shields.io/badge/Tests-23%20Passed-success.svg)](tests/)
 
 > **SWYNEX Technologies Internship — Task 4: Final AI Application**  
-> **Final Repository**: [https://github.com/Jyo-08/SWYNEX-AI-APPLICATION](https://github.com/Jyo-08/SWYNEX-AI-APPLICATION)
+> **Final Repository**: [https://github.com/Jyo-08/SWYNEX-AI-APPLICATION](https://github.com/Jyo-08/SWYNEX-AI-APPLICATION)<br>
 > **Live demo Link** : [https://swynexaiapp.streamlit.app/]
 
 ---
