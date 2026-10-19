@@ -6,3 +6,6 @@ __pycache__/
 .env.*
 data/*.csv
 .ipynb_checkpoints/
+*.mov
+*.mp4
+*.webm

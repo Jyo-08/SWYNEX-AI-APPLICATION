@@ -1,5 +1,5 @@
 """
-Automated unit and integration tests for ReviewLens AI (Task 3).
+Automated unit and integration tests for ReviewLens AI (Task 4 Final Application).
 Tests input validation, aspect detection, error handling,
 margin calculations, and backward compatibility.
 """

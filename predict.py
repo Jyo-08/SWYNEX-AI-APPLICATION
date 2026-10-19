@@ -233,7 +233,7 @@ def predict_sentiment(sentence, aspect):
 
 def main():
     print("=" * 60)
-    print("                 ReviewLens AI (Task 3)")
+    print("           ReviewLens AI — Final Application (Task 4)")
     print("   Intelligent Aspect-Based Sentiment Analysis & Guidance")
     print("=" * 60)
 

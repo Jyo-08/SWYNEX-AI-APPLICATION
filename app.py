@@ -1,5 +1,5 @@
 """
-ReviewLens AI — Streamlit Interactive Interface (Task 3)
+ReviewLens AI — Streamlit Interactive Interface (Task 4 Final Application)
 Aspect-Based Sentiment Analysis with Intelligent Error Handling and Reliability Guidance.
 """
 
@@ -105,7 +105,7 @@ with st.sidebar:
         - **Task**: Aspect-Based Sentiment Analysis (SemEval-2014 Task 4)
         - **Classes**: `positive`, `negative`, `neutral`, `conflict`
         - **Artifact**: `model/reviewlens_model.pkl` (704 KB)
-        - **Project**: SWYNEX AI Internship (Task 3)
+        - **Project**: SWYNEX AI Internship (Task 4 Final Application)
         """
     )
 

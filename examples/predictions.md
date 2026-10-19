@@ -1,4 +1,4 @@
-# Observed Prototype Predictions & Evaluation (Task 3)
+# Observed Prototype Predictions & Evaluation — ReviewLens AI
 
 These outputs were observed during local empirical testing using the pre-trained ReviewLens AI model artifact (`model/reviewlens_model.pkl`). All numerical scores and class probability distributions are authentic outputs from the model.
 
