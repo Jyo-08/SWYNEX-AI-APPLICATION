@@ -8,7 +8,7 @@
 
 > **SWYNEX Technologies Internship — Task 4: Final AI Application**  
 > **Final Repository**: [https://github.com/Jyo-08/SWYNEX-AI-APPLICATION](https://github.com/Jyo-08/SWYNEX-AI-APPLICATION)<br>
-> **Live demo Link** : [https://swynexaiapp.streamlit.app/]
+> **Live demo Link** : https://swynexaiapp.streamlit.app/
 
 ---
 
